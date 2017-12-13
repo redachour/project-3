@@ -82,7 +82,7 @@ def open_file(edited, index):
                              'notes': entry['notes'], 'date': entry['date']})
 
 
-# Serach menu with 6 options
+# Search menu with 6 options
 def search_menu():
     clear()
     print('''\n\n\t\tSEARCH MENU\n\n
